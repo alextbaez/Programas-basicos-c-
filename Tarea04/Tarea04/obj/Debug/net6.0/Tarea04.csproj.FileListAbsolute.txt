@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\Tarea04\Tarea04\bin\Debug\net6.0\Tarea04.exe
+C:\Users\Alex\source\repos\Tarea04\Tarea04\bin\Debug\net6.0\Tarea04.deps.json
+C:\Users\Alex\source\repos\Tarea04\Tarea04\bin\Debug\net6.0\Tarea04.runtimeconfig.json
+C:\Users\Alex\source\repos\Tarea04\Tarea04\bin\Debug\net6.0\Tarea04.dll
+C:\Users\Alex\source\repos\Tarea04\Tarea04\bin\Debug\net6.0\ref\Tarea04.dll
+C:\Users\Alex\source\repos\Tarea04\Tarea04\bin\Debug\net6.0\Tarea04.pdb
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.dll
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\ref\Tarea04.dll
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.pdb
+C:\Users\Alex\source\repos\Tarea04\Tarea04\obj\Debug\net6.0\Tarea04.genruntimeconfig.cache
