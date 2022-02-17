@@ -6,5 +6,11 @@ class Ejemplo01
     {
         Console.WriteLine("Hola mundo, me llamo Alex");
         Console.WriteLine("Por ahora no parece dificil");
+        Saludo();
+    }
+
+    static void Saludo()
+    {
+        Console.WriteLine("Saludo");
     }
 }
