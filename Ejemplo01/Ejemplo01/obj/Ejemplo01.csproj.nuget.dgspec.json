@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\Programas basicos C#\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj": {}
+    "C:\\Users\\Alex\\source\\repos\\Programas-basicos-c-\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\Programas basicos C#\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj": {
+    "C:\\Users\\Alex\\source\\repos\\Programas-basicos-c-\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Programas basicos C#\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\Programas-basicos-c-\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj",
         "projectName": "Ejemplo01",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\Programas basicos C#\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj",
+        "projectPath": "C:\\Users\\Alex\\source\\repos\\Programas-basicos-c-\\Ejemplo01\\Ejemplo01\\Ejemplo01.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\Programas basicos C#\\Ejemplo01\\Ejemplo01\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\source\\repos\\Programas-basicos-c-\\Ejemplo01\\Ejemplo01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
