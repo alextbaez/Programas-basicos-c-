@@ -6,14 +6,6 @@ class Ejemplo01
     {
         Console.WriteLine("Hola mundo");
         Console.WriteLine("Por ahora no parece dificil");
-        Console.WriteLine("Otro texto");
-
-        Saludo();
     }
     
-    static void Saludo()
-    {
-        Console.WriteLine("Saludo");
-
-    }
 }
